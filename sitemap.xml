@@ -3,72 +3,82 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://odaymourad.github.io/Oday_Portfolio/</loc>
-    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://odaymourad.github.io/Oday_Portfolio/tags/prediction/</loc>
-    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://odaymourad.github.io/Oday_Portfolio/post/project6/</loc>
-    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://odaymourad.github.io/Oday_Portfolio/tags/</loc>
-    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://odaymourad.github.io/Oday_Portfolio/tags/time-series/</loc>
-    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
+    <loc>https://odaymourad.github.io/Oday_Portfolio/tags/time-series-forecasting/</loc>
+    <lastmod>2022-06-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://odaymourad.github.io/Oday_Portfolio/tags/classification/</loc>
-    <lastmod>2022-09-08T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://odaymourad.github.io/Oday_Portfolio/tags/clustering/</loc>
-    <lastmod>2022-09-08T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://odaymourad.github.io/Oday_Portfolio/post/project5/</loc>
-    <lastmod>2022-09-08T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://odaymourad.github.io/Oday_Portfolio/tags/deep-learning/</loc>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://odaymourad.github.io/Oday_Portfolio/tags/nlp/</loc>
-    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://odaymourad.github.io/Oday_Portfolio/post/project4/</loc>
-    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://odaymourad.github.io/Oday_Portfolio/post/project3/</loc>
-    <lastmod>2022-08-29T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://odaymourad.github.io/Oday_Portfolio/post/project2/</loc>
-    <lastmod>2022-08-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://odaymourad.github.io/Oday_Portfolio/tags/feature-engineering/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://odaymourad.github.io/Oday_Portfolio/post/project1/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://odaymourad.github.io/Oday_Portfolio/tags/regression/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

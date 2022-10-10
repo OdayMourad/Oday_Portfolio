@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Time Series Forecasting on Oday Mourad</title>
+    <link>https://odaymourad.github.io/Oday_Portfolio/tags/time-series-forecasting/</link>
+    <description>Recent content in Time Series Forecasting on Oday Mourad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://odaymourad.github.io/Oday_Portfolio/tags/time-series-forecasting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 6: Predict Future Sales</title>
+      <link>https://odaymourad.github.io/Oday_Portfolio/post/project6/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://odaymourad.github.io/Oday_Portfolio/post/project6/</guid>
+      <description>Problem Overview:
+predict total sales for every product and store in the next month. The data provided by one of the largest Russian software firms - 1C Company.
+Dataset: daily historical sales data from January 2013 to October 2015. it contains: items, categories, shops..
+Task: forecast the total amount of products sold in every shop in new data.
+Project Overview:
+Aggregating, organizing, merging data tables to use them in the next steps.</description>
+    </item>
+    
+  </channel>
+</rss>

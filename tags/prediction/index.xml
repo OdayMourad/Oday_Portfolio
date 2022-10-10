@@ -6,61 +6,88 @@
     <description>Recent content in Prediction on Oday Mourad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://odaymourad.github.io/Oday_Portfolio/tags/prediction/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://odaymourad.github.io/Oday_Portfolio/tags/prediction/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project 6: Predict Future Sales</title>
       <link>https://odaymourad.github.io/Oday_Portfolio/post/project6/</link>
-      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://odaymourad.github.io/Oday_Portfolio/post/project6/</guid>
-      <description>We are delighted to be able to inform the reader, that during the whole of this scene, Gringoire and his piece had stood firm. His actors, spurred on by him, had not ceased to spout his comedy, and he had not ceased to listen to it. He had made up his mind about the tumult, and was determined to proceed to the end, not giving up the hope of a return of attention on the part of the public.</description>
+      <description>Problem Overview:
+predict total sales for every product and store in the next month. The data provided by one of the largest Russian software firms - 1C Company.
+Dataset: daily historical sales data from January 2013 to October 2015. it contains: items, categories, shops..
+Task: forecast the total amount of products sold in every shop in new data.
+Project Overview:
+Aggregating, organizing, merging data tables to use them in the next steps.</description>
     </item>
     
     <item>
       <title>Project 5: Fraud Detection</title>
       <link>https://odaymourad.github.io/Oday_Portfolio/post/project5/</link>
-      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://odaymourad.github.io/Oday_Portfolio/post/project5/</guid>
-      <description>In the twinkling of an eye, all was ready to execute Coppenole’s idea. Bourgeois, scholars and law clerks all set to work. The little chapel situated opposite the marble table was selected for the scene of the grinning match. A pane broken in the pretty rose window above the door, left free a circle of stone through which it was agreed that the competitors should thrust their heads. In order to reach it, it was only necessary to mount upon a couple of hogsheads, which had been produced from I know not where, and perched one upon the other, after a fashion.</description>
+      <description>Problem Overview:
+EEE-CIS works across a variety of AI and machine learning areas.
+We have a binary classification problem with a heavy imbalance which is an inherent property of such problems.
+Dataset: The data comes from Vesta&amp;rsquo;s real-world e-commerce transactions and contains a wide range of features from device type to product features.
+Target: predicting the probability that an online transaction is fraudulent.
+Project Overview:
+Discovering the data and applying Exploratory Data Analysis to extract some patterns related to if a transaction fraud or not.</description>
     </item>
     
     <item>
       <title>Project 4: Natural Language Processing with Disaster Tweets</title>
       <link>https://odaymourad.github.io/Oday_Portfolio/post/project4/</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://odaymourad.github.io/Oday_Portfolio/post/project4/</guid>
-      <description>While the pensioner of Ghent and his eminence were exchanging very low bows and a few words in voices still lower, a man of lofty stature, with a large face and broad shoulders, presented himself, in order to enter abreast with Guillaume Rym; one would have pronounced him a bull-dog by the side of a fox. His felt doublet and leather jerkin made a spot on the velvet and silk which surrounded him.</description>
+      <description>Dataset: more than 10,000 real tweets.
+Target: Predict which tweets are talking about disaster and which are not.
+Project Overview:
+Discovering the data and applying Exploratory Data Analysis to extract some patterns related to if a tweet is about disaster or not.
+Full data cleaning (remove: stop words, urls, emojies, &amp;hellip;.).
+Correcting spelling using textblob.
+applying Text vectorization using Glove.
+Tokenizing each tweet and building the embedding matrix.
+Building deep neural network model using Lstm to start predicting.</description>
     </item>
     
     <item>
       <title>Project 3: Spaceship Titanic Survived Prediction</title>
       <link>https://odaymourad.github.io/Oday_Portfolio/post/project3/</link>
-      <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://odaymourad.github.io/Oday_Portfolio/post/project3/</guid>
-      <description>Poor Gringoire! the din of all the great double petards of the Saint-Jean, the discharge of twenty arquebuses on supports, the detonation of that famous serpentine of the Tower of Billy, which, during the siege of Paris, on Sunday, the twenty-sixth of September, 1465, killed seven Burgundians at one blow, the explosion of all the powder stored at the gate of the Temple, would have rent his ears less rudely at that solemn and dramatic moment, than these few words, which fell from the lips of the usher, “His eminence, Monseigneur the Cardinal de Bourbon.</description>
+      <description>Problem Overview:
+The Spaceship Titanic was an interstellar passenger liner launched a month ago. With almost 13,000 passengers on board, the vessel set out on its maiden voyage transporting emigrants from our solar system to three newly habitable exoplanets orbiting nearby stars.
+While rounding Alpha Centauri en route to its first destination—the torrid 55 Cancri E—the unwary Spaceship Titanic collided with a spacetime anomaly hidden within a dust cloud. Sadly, it met a similar fate as its namesake from 1000 years before.</description>
     </item>
     
     <item>
       <title>Project 2: Titanic Survived Prediction</title>
       <link>https://odaymourad.github.io/Oday_Portfolio/post/project2/</link>
-      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://odaymourad.github.io/Oday_Portfolio/post/project2/</guid>
-      <description>Nevertheless, as be harangued them, the satisfaction and admiration unanimously excited by his costume were dissipated by his words; and when he reached that untoward conclusion: “As soon as his illustrious eminence, the cardinal, arrives, we will begin,” his voice was drowned in a thunder of hooting.
-“Begin instantly! The mystery! the mystery immediately!” shrieked the people. And above all the voices, that of Johannes de Molendino was audible, piercing the uproar like the fife’s derisive serenade: “Commence instantly!</description>
+      <description>Problem Overview:
+The sinking of the Titanic is one of the most infamous shipwrecks in history.
+On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
+While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.</description>
     </item>
     
     <item>
       <title>Project 1: Houses Price Prediction</title>
       <link>https://odaymourad.github.io/Oday_Portfolio/post/project1/</link>
-      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://odaymourad.github.io/Oday_Portfolio/post/project1/</guid>
-      <description>Three hundred and forty-eight years, six months, and nineteen days ago to-day, the Parisians awoke to the sound of all the bells in the triple circuit of the city, the university, and the town ringing a full peal.
-The sixth of January, 1482, is not, however, a day of which history has preserved the memory. There was nothing notable in the event which thus set the bells and the bourgeois of Paris in a ferment from early morning.</description>
+      <description>Dataset: Features of more than 3000 houses in USA with around 80 features for each house.
+Target: Predicting house price.
+Project Overview:
+Making complete Exploratory Data Analysis for data to discover the house&amp;rsquo;s categorical and numerical features and see the correlations between each other.
+Detailed processing of data to be used by machine learning models.
+Applying advanced features engineering techniques to generate additional useful features will help us improve our ml model score.</description>
     </item>
     
   </channel>
